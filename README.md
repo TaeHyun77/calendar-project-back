@@ -1,11 +1,9 @@
 캘린더를 통한 일정 관리 프로젝트입니다.
 
 # 목적 
----
 나만의 캘린더 일정 관리 페이지를 만들어 보고자 제작하였으며, 기본적인 CRUD 프로젝트입니다.<br><br>
 
 # 사용 기술
----
 - BackEnd : SpringBoot, Spring Data Jpa
   
 - FrontEnd : React.js
@@ -13,7 +11,6 @@
 - DataBase : MySQL<br><br>
 
 # 기능
----
 - Oauth를 통한 카카오, 구글, 네이버 로그인
   
 - React.js의 FullCalendar와 DatePicker 모듈을 활용한 Calendar 구현
@@ -23,7 +20,6 @@
 - 작성한 일정 확인<br><br>
 
 # 페이지 
----
 - 홈 화면 1
 <img width="958" alt="Image" src="https://github.com/user-attachments/assets/c18d8844-5c11-42d9-9d37-e4c34eef057e" /><br><br>
 - 홈 화면 2
